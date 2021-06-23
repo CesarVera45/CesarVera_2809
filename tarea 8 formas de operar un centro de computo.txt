@@ -1,0 +1,46 @@
+ejemplificar 5 puntos de las formas de operar un centro
+de computo
+
+1.-llevar registro de fallas, problemas, soluciones,
+acciones desarrolladas, respaldos, recuperaciones y
+trabajos realizados.
+
+EJ: si tengo un fallo en la configuracion de un 
+equipo el cual no me deja conectarme a la red, se necesita 
+tomar en cuenta quien lo arregla, la forma de como se 
+arreglo el problema y cual era ese problema, se documenta
+y se guarda ya que ese documento nos servira para tener
+una base por si vuelve a ocurrir, ya sabremos como actuar.
+
+2.-Aplicar en forma estricta las normas de seguridad
+y control establecidas.
+
+EJ: En un centro de computo como en cualquier lado debe
+de existir un reglamento el cual seguir, entonces algo muy claro 
+no puede haber liquidos cerca de los equipos ya que si
+llega a derramarse alguno puede provocar un fallo, entonces
+si eso esta incluido dentro de un reglamento debe acatarse
+sin ningun tipo de objeción.
+
+3.-Mantener informado al jefe inmediato sobre el funcionamiento
+del centro de computo.
+
+EJ: si llego y el centro tiene alguna falla de inmediato debo 
+comunicarlo para darle solucion lo mas pronto posible
+ya que no puede pasarse por alto ninguna falla o desperfecto.
+
+4.- cumplir con las normas, reglamentos y procedimientos
+establecidos por la direccion para el desarrollo de las funciones
+asignadas.
+
+EJ: no puedo yo infringir en las funciones que desempeña
+otra persona dentro del centro debo acatarme a lo que me 
+corresponde, asi como respetar los reglamentos de cada area
+dentro del centro.
+
+5.-Operar el sistema de computación central y mantener el sistema 
+disponible para los usuarios.
+
+EJ: se debe de tener en forma el centro de computo para
+cuando se requiera, para no llegar a la instancia de parar 
+un proceso porque nuestro centro está inservible.
